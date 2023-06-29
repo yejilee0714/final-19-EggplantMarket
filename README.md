@@ -80,8 +80,6 @@
 
 ## <span id = "task">4. 작업 관리<span>
 
-<br />
-
 ### [작업 관리]
 - [ 🔗issues ](https://github.com/FRONTENDSCHOOL5/final-19-EggplantMarket/issues)를 사용하여 진행도와 상황을 꾸준히 공유
 
